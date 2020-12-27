@@ -1,4 +1,4 @@
-package com.dml.hw.leetcode.easy.array.q1;
+package com.dml.hw.leetcode.array.easy.q1;
 
 import java.util.Arrays;
 import java.util.HashMap;

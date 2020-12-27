@@ -1,4 +1,4 @@
-package com.dml.hw.leetcode.medium.q713.array.q15;
+package com.dml.hw.leetcode.array.medium.q15;
 
 import java.util.*;
 
